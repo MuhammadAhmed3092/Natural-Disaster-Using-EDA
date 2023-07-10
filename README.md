@@ -44,10 +44,4 @@ Feel free to customize the code or add additional analyses as per your requireme
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-You can use this template as a starting point and modify it to fit your project's specific details. Make sure to update the sections accordingly, including the project description, key components, usage instructions, and contributors.
+- [Muhammad Ahmed](https://github.com/MuhammadAhmed3092)
